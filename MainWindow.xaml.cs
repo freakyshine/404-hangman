@@ -24,9 +24,7 @@ namespace Hangman
         {
             InitializeComponent();
 
-            // Use WordProvider to retrieve and store a random guess word.
-            // The returned word is all uppercase!
-            _word = WordProvider.GetWord();
+            _word = WordLibrary.GetWord();
         }
 
         /**
