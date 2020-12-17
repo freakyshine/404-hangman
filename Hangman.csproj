@@ -16,12 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="lives_0.png" />
-    <Resource Include="lives_1.png" />
-    <Resource Include="lives_2.png" />
-    <Resource Include="lives_3.png" />
-    <Resource Include="lives_4.png" />
-    <Resource Include="lives_5.png" />
+    <Resource Include="Pictures\lives_0.png" />
+    <Resource Include="Pictures\lives_1.png" />
+    <Resource Include="Pictures\lives_2.png" />
+    <Resource Include="Pictures\lives_3.png" />
+    <Resource Include="Pictures\lives_4.png" />
+    <Resource Include="Pictures\lives_5.png" />
   </ItemGroup>
 
 </Project>
